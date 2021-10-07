@@ -6,6 +6,5 @@ It's an api which let's users post their pictures. In this API we can find plan 
 ## How to start project?
 ```
 git clone https://github.com/memez-michalek/DRF-Image-Handling-API.git
-cd django-excercise
 docker-compose up --build
 ```
